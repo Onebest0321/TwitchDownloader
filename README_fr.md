@@ -221,7 +221,7 @@ dotnet restore
 dotnet publish TwitchDownloaderWPF -p:PublishProfile=Windows
 ```
 
-4. b) Compiler le CLI :
+4. b) Compiler la CLI :
 
 ```
 dotnet publish TwitchDownloaderCLI -p:PublishProfile=<Profile>
